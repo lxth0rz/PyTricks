@@ -1,1 +1,1 @@
-# PyTricks sent by Real Python free email series.
+PyTricks from Real Python free email series.
